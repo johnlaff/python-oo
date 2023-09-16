@@ -1,6 +1,4 @@
 # 🐍 Python POO (Programação Orientada a Objetos)
-
-## 📝 Descrição
 Este repositório é dedicado aos meus estudos de orientação a objetos em Python.
 
 ## 🤖 Tecnologias Utilizadas
